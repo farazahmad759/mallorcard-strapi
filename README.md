@@ -12,4 +12,4 @@
       },
 
 # Database dump
- strapi.sql is available in "database-dump" directory in root.
+ strapi.sql is available in "extra-notes" directory in root.
