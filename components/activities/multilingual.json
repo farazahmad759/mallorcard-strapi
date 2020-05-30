@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_activities_multilinguals",
+  "info": {
+    "name": "multilingual",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "language": {
+      "type": "enumeration",
+      "enum": [
+        "DE",
+        "ES"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
