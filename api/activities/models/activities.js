@@ -38,7 +38,8 @@ module.exports = {
   afterCreate: async (model, attrs, options) => {
     strapi.services.email.send(
       "faraz759939@gmail.com",
-      " info@mallorcard.es", // to
+      "info@mallorcard.es", // to
+      // "farazahmad759@gmail.com", // to
       "Activity Creation Notification (from farazahmad759@gmail.com)",
       "Hi, this is to let you know tat a new Activity has been created in the Strapi database (task completed by Faraz Ahmad, farazahmad759@gmail.com)" +
         JSON.stringify(model.attributes)
