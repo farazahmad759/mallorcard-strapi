@@ -26,7 +26,7 @@
     "mariadb": "^2.2.0",
     "mysql2": "^2.1.0",
     "sqlite3": "^4.2.0",
-    "strapi": "3.0.0-beta.20",
+    "strapi": "3.2.5",
     "strapi-admin": "3.0.0-beta.20",
     "strapi-connector-bookshelf": "3.0.0-beta.20",
     "strapi-email-nodemailer": "^0.2.1",
